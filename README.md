@@ -12,9 +12,9 @@ Marrom pode ser usado para estimular o apetite (pense em comerciais para café e
 📂 [Respositório](https://github.com/diego105xz/Receita_de_Bolo) </br>
 🌐 [Site](https://diego105xz.github.io/Receita_de_Bolo/) </br>
 
-Artigo sobre harmonia de cores: [clique aqui](https://poraodastintas.com.br/harmonia-cores/)
+Sobre harmonia de cores: [Artigo](https://poraodastintas.com.br/harmonia-cores/)
 
-Artigo sobre Psicologia das cores: [clique aqui](https://blog.wsiconsultoria.com/psicologia-das-cores-seu-website)
+Sobre Psicologia das cores: [Artigo](https://blog.wsiconsultoria.com/psicologia-das-cores-seu-website)
 
 ### Layout Mobile
 ![Mobile](https://github.com/diego105xz/RepositorioImg/blob/main/Receita_de_BoloMobile.jpg)
