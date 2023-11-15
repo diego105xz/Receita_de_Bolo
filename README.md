@@ -16,8 +16,8 @@ Sobre harmonia de cores: [Artigo](https://poraodastintas.com.br/harmonia-cores/)
 
 Sobre Psicologia das cores: [Artigo](https://blog.wsiconsultoria.com/psicologia-das-cores-seu-website)
 
-### Layout Mobile
-![Mobile](https://github.com/diego105xz/RepositorioImg/blob/main/Receita_de_BoloMobile.jpg)
-
 ### Layout Web
 ![WEB](https://github.com/diego105xz/RepositorioImg/blob/main/Receita_de_BoloWeb.jpg)
+
+### Layout Mobile
+![Mobile](https://github.com/diego105xz/RepositorioImg/blob/main/Receita_de_BoloMobile.jpg)
