@@ -1,4 +1,4 @@
-# Projeto - 2/100
+# Projeto - 1/100
 Esse é o Início de uma jornada de 100 aplicações Front-end que irei publicar, desde projetos simples até os mais complexos com desenvovimento de API.
 
 ## Receita_de_Bolo
@@ -10,11 +10,14 @@ Marrom pode ser usado para estimular o apetite (pense em comerciais para café e
 💡 Tecnologia usada: HTML e CSS </br>
 📑 Layout desenvolvido pela DevMedia </br>
 📂 [Respositório](https://github.com/diego105xz/Receita_de_Bolo) </br>
-🌐 [Site](https://diego105xz.github.io/padaria/) </br>
+🌐 [Site](https://diego105xz.github.io/Receita_de_Bolo/) </br>
 
 Artigo sobre harmonia de cores: [clique aqui](https://poraodastintas.com.br/harmonia-cores/)
 
 Artigo sobre Psicologia das cores: [clique aqui](https://blog.wsiconsultoria.com/psicologia-das-cores-seu-website)
 
+### Layout Mobile
+![Mobile](https://github.com/diego105xz/RepositorioImg/blob/main/Receita_de_BoloMobile.jpg)
+
 ### Layout Web
-![WEB](https://github.com/diego105xz/RepositorioImg/blob/main/game-stroreWeb.jpg)
+![WEB](https://github.com/diego105xz/RepositorioImg/blob/main/Receita_de_BoloWeb.jpg)
