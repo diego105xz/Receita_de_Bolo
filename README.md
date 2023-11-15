@@ -9,12 +9,12 @@ Marrom pode ser usado para estimular o apetite (pense em comerciais para café e
 
 💡 Tecnologia usada: HTML e CSS </br>
 📑 Layout desenvolvido pela DevMedia </br>
-📂 Respositório: https://lnkd.in/dAxUEfq7 </br>
-🌐 Site: https://lnkd.in/dYmHs_cW </br>
+📂 [Respositório](https://github.com/diego105xz/Receita_de_Bolo) </br>
+🌐 [Site](https://diego105xz.github.io/padaria/) </br>
 
-Artigo sobre harmonia de cores: https://lnkd.in/d26fqkgC
+Artigo sobre harmonia de cores: [clique aqui](https://poraodastintas.com.br/harmonia-cores/)
 
-Artigo sobre Psicologia das cores: https://lnkd.in/dzfbGWDt
+Artigo sobre Psicologia das cores: [clique aqui](https://blog.wsiconsultoria.com/psicologia-das-cores-seu-website)
 
 ### Layout Web
 ![WEB](https://github.com/diego105xz/RepositorioImg/blob/main/game-stroreWeb.jpg)
